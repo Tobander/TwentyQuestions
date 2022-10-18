@@ -1,0 +1,20 @@
+PROMPT:
+
+482a5f2c-0e75-4932-abf8-f16fb46033c9
+Pick a random word: The Great Wall
+Pick a random word: Hollywood Sign
+Pick a random word: Ferrari LaFerrari
+Pick a random word: La Voiture Noire
+Pick a random word: Kobe Bryant
+Pick a random word: Mo Farah
+Pick a random word: Antoine Griezmann
+Pick a random word: Miley Cyrus
+Pick a random word: Christ the Redeemer Statue
+Pick a random word: Mercedes-Benz Maybach Exelero
+Pick a random word:
+
+==========
+
+RESPONSE:
+
+Michael Jordan
